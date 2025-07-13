@@ -1,11 +1,11 @@
-# 🛠️ Admin Template — Next.js + Express.js + Prisma + shadcn/ui
+# Admin Template — Next.js + Express.js + Prisma + shadcn/ui
 
 A modern, full-stack admin template built with **Next.js**, **Express.js**, **Prisma**, and **shadcn/ui**.  
 Includes authentication, role-based access, and clean UI components out of the box — ready for customization.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Layer       | Tech           |
 |-------------|----------------|
@@ -19,7 +19,7 @@ Includes authentication, role-based access, and clean UI components out of the b
 
 ---
 
-##  Features
+## Features
 
 -  Clean admin dashboard layout (responsive)
 -  User authentication (login, register, protected routes)
